@@ -29,8 +29,6 @@ Soy estudiante de Licenciatura en Sistemas de Información, con interés en el d
 ---
 ## Porfolio y CV 
 - [Linkedin] (https://www.linkedin.com/in/gmmendoza/)
-- 
-## Contacto
-- [Whatsapp] +54 3758576244
-- [Email] guuamendoza@gmail.com
+
+
 
