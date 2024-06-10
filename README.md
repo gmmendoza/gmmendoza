@@ -27,8 +27,10 @@ Soy estudiante de Licenciatura en Sistemas de Información, con interés en el d
 ![Static Badge](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=black&color=sky-blue)
 
 ---
+
 ## Porfolio y CV 
 - [Linkedin] (https://www.linkedin.com/in/gmmendoza/)
+- [https://gmmendoza.github.io/mi-portfolio/] (https://gmmendoza.github.io/mi-portfolio/)
 
 
 
