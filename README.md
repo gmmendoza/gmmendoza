@@ -30,7 +30,7 @@ Soy estudiante de Licenciatura en Sistemas de Información, con interés en el d
 
 ## Porfolio y CV 
 - [Linkedin] (https://www.linkedin.com/in/gmmendoza/)
-- [https://gmmendoza.github.io/mi-portfolio/] (https://gmmendoza.github.io/mi-portfolio/)
+- [Portafolio] (https://gmmendoza.github.io/mi-portfolio/)
 
 
 
